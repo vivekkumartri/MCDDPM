@@ -175,7 +175,7 @@ If you use this code in your research, please cite our paper:
 This project is licensed under the MIT License.
 -->
 ## Acknowledgements
-We thank Technocraft Centre of Applied Artificial Intelligence (TCA2I), IIT Bombay, for their generous funding support towards this
+We thank Technocraft Centre for Applied Artificial Intelligence (TCA2I), IIT Bombay, for their generous funding support towards this
 project.
 
 This project draws inspiration and is developed based on the [pddpm-uad](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD) repository.
