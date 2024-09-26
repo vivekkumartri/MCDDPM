@@ -10,7 +10,6 @@ This repository contains the code implementation for the paper "[MCDDPM: Multich
 - [Running MCDDPM](#running-mcddpm)
 - [Results](#results)
 - [Citation](#citation)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -20,7 +19,7 @@ In this work, we propose an improved version of DDPM called Multichannel Conditi
 <!-- <img width="930" alt="image" src="https://github.com/user-attachments/assets/a935b5e4-07bf-4097-ad21-b67ade7949e8">
 <img src="https://github.com/user-attachments/assets/a935b5e4-07bf-4097-ad21-b67ade7949e8" width="700" alt="MCDDPM Overview">
 <img src="https://github.com/user-attachments/assets/a935b5e4-07bf-4097-ad21-b67ade7949e8" width=: 100% height="400" alt="MCDDPM Overview"> -->
-<img src="https://github.com/user-attachments/assets/a935b5e4-07bf-4097-ad21-b67ade7949e8" style="width: 100%;"  height=600 alt="MCDDPM Overview">
+<img src="images/MCDDPM.png" style="width: 100%;"  height=600 alt="MCDDPM Overview"> 
 
 
 ## Environment Set-up
@@ -133,8 +132,7 @@ Please refer to the `preprocessing/` directory in this repository for preprocess
 ### Dataset Details
 
 The table below provides information about the datasets used in this project:
-
-<img src="https://github.com/user-attachments/assets/84c7fc33-7f63-4216-8bcb-0f25d915e011" width=600 height=300>
+<img src="images/MCDDPM_DATA_Info.png" width=600 height=300>
 
 For more details on each dataset preprocessing, refer to the respective dataset documentation and the `preprocessing/` directory in this repository.
 
@@ -162,11 +160,15 @@ For more details on each dataset preprocessing, refer to the respective dataset 
 -->
 ### Qualitative results:
 We present below a few comparisons in terms of qualitative and quantitative results.
-
-<img alt="image" src="https://github.com/user-attachments/assets/fd265805-388d-4534-8c88-24fad5018246" style="width: 100%;" height=500>
+<img alt="image" src="images/Qualitative_Results.png" style="width: 100%;" height=500>
+<!--
+<img alt="image" src="images/Qualitative_Results.png" style="width: 100%;" height=500>
+<img src="images/your-image.png" alt="My Figure" width="500"/>
+![Qualitative_Results](images/Qualitative_Results.png)
+-->
 
 ### Quantitative results:
-![image](https://github.com/user-attachments/assets/a861f3e3-2a9b-4ef8-a08e-6385d48a49e5)
+![image](images/Quantitative_Results.png)
 
 ## Citation
 If you use this code in your research, please cite our paper:
