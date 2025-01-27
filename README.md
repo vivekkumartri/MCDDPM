@@ -1,6 +1,6 @@
 # MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI
 
-This repository contains the code implementation for the paper "[MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI](https://www.researchgate.net/profile/Bheeshm-Sharma/)" by Vivek Kumar Trivedi, Bheeshm Sharma and P. Balamurugan, accepted by CSIP-BMEI 2024.
+This repository contains the code implementation for the paper "[MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2409.19623)" by Vivek Kumar Trivedi, Bheeshm Sharma and P. Balamurugan, accepted by CSIP-BMEI 2024.
 
 ## Table of Contents
 - [Introduction](#introduction)
