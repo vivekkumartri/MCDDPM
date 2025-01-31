@@ -1,0 +1,17 @@
+img_name,img_path,seg_path,label,mask_path
+BraTS-GLI-00628-000-t2w.nii,/Brats23/t2/BraTS-GLI-00628-000-t2w.nii,/Brats23/seg/BraTS-GLI-00628-000-seg.nii,1,/Brats23/mask/BraTS-GLI-00628-000-mask.nii
+BraTS-GLI-01450-000-t2w.nii,/Brats23/t2/BraTS-GLI-01450-000-t2w.nii,/Brats23/seg/BraTS-GLI-01450-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01450-000-mask.nii
+BraTS-GLI-01285-000-t2w.nii,/Brats23/t2/BraTS-GLI-01285-000-t2w.nii,/Brats23/seg/BraTS-GLI-01285-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01285-000-mask.nii
+BraTS-GLI-00767-001-t2w.nii,/Brats23/t2/BraTS-GLI-00767-001-t2w.nii,/Brats23/seg/BraTS-GLI-00767-001-seg.nii,1,/Brats23/mask/BraTS-GLI-00767-001-mask.nii
+BraTS-GLI-01103-000-t2w.nii,/Brats23/t2/BraTS-GLI-01103-000-t2w.nii,/Brats23/seg/BraTS-GLI-01103-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01103-000-mask.nii
+BraTS-GLI-01219-000-t2w.nii,/Brats23/t2/BraTS-GLI-01219-000-t2w.nii,/Brats23/seg/BraTS-GLI-01219-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01219-000-mask.nii
+BraTS-GLI-01405-000-t2w.nii,/Brats23/t2/BraTS-GLI-01405-000-t2w.nii,/Brats23/seg/BraTS-GLI-01405-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01405-000-mask.nii
+BraTS-GLI-01471-000-t2w.nii,/Brats23/t2/BraTS-GLI-01471-000-t2w.nii,/Brats23/seg/BraTS-GLI-01471-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01471-000-mask.nii
+BraTS-GLI-01068-000-t2w.nii,/Brats23/t2/BraTS-GLI-01068-000-t2w.nii,/Brats23/seg/BraTS-GLI-01068-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01068-000-mask.nii
+BraTS-GLI-00630-000-t2w.nii,/Brats23/t2/BraTS-GLI-00630-000-t2w.nii,/Brats23/seg/BraTS-GLI-00630-000-seg.nii,1,/Brats23/mask/BraTS-GLI-00630-000-mask.nii
+BraTS-GLI-00104-000-t2w.nii,/Brats23/t2/BraTS-GLI-00104-000-t2w.nii,/Brats23/seg/BraTS-GLI-00104-000-seg.nii,1,/Brats23/mask/BraTS-GLI-00104-000-mask.nii
+BraTS-GLI-01131-000-t2w.nii,/Brats23/t2/BraTS-GLI-01131-000-t2w.nii,/Brats23/seg/BraTS-GLI-01131-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01131-000-mask.nii
+BraTS-GLI-01453-000-t2w.nii,/Brats23/t2/BraTS-GLI-01453-000-t2w.nii,/Brats23/seg/BraTS-GLI-01453-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01453-000-mask.nii
+BraTS-GLI-01423-000-t2w.nii,/Brats23/t2/BraTS-GLI-01423-000-t2w.nii,/Brats23/seg/BraTS-GLI-01423-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01423-000-mask.nii
+BraTS-GLI-01117-000-t2w.nii,/Brats23/t2/BraTS-GLI-01117-000-t2w.nii,/Brats23/seg/BraTS-GLI-01117-000-seg.nii,1,/Brats23/mask/BraTS-GLI-01117-000-mask.nii
+BraTS-GLI-00819-000-t2w.nii,/Brats23/t2/BraTS-GLI-00819-000-t2w.nii,/Brats23/seg/BraTS-GLI-00819-000-seg.nii,1,/Brats23/mask/BraTS-GLI-00819-000-mask.nii

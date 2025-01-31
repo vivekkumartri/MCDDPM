@@ -1,0 +1,10 @@
+,img_name,Cohort Name (if publicly available),Site No (represents the originating institution),Local ID ,age,label,img_path,mask_path,seg_path
+408,BraTS2021_01122,Private Collection,1,,,1,/Test/Brats21/t1/BraTS2021_01122_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01122_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01122_seg.nii.gz
+618,BraTS2021_01409,Private Collection,1,,,1,/Test/Brats21/t1/BraTS2021_01409_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01409_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01409_seg.nii.gz
+469,BraTS2021_01246,Private Collection,1,,67.17,1,/Test/Brats21/t1/BraTS2021_01246_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01246_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01246_seg.nii.gz
+1177,BraTS2021_01584,Private Collection,18,,,1,/Test/Brats21/t1/BraTS2021_01584_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01584_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01584_seg.nii.gz
+197,BraTS2021_00283,Private Collection,1,,,1,/Test/Brats21/t1/BraTS2021_00283_t1.nii.gz,/Test/Brats21/mask/BraTS2021_00283_mask.nii.gz,/Test/Brats21/seg/BraTS2021_00283_seg.nii.gz
+1228,BraTS2021_01635,Private Collection,18,,,1,/Test/Brats21/t1/BraTS2021_01635_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01635_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01635_seg.nii.gz
+457,BraTS2021_01234,Private Collection,1,,63.192,1,/Test/Brats21/t1/BraTS2021_01234_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01234_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01234_seg.nii.gz
+472,BraTS2021_01249,Private Collection,1,,36.784,1,/Test/Brats21/t1/BraTS2021_01249_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01249_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01249_seg.nii.gz
+635,BraTS2021_01426,priorToBraTS2017,3,brats_2013_pat0022_1_HGG,68.02,1,/Test/Brats21/t1/BraTS2021_01426_t1.nii.gz,/Test/Brats21/mask/BraTS2021_01426_mask.nii.gz,/Test/Brats21/seg/BraTS2021_01426_seg.nii.gz
